@@ -1,0 +1,1 @@
+CREATE TABLE `swasarjan`.`account` (`id` INT NOT NULL AUTO_INCREMENT , `username` TEXT NOT NULL , `password` TEXT NOT NULL , `email` TEXT NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB; 
